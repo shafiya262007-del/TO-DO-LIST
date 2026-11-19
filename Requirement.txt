@@ -1,0 +1,4 @@
+# Requirements for To-Do List Project
+
+# Tkinter is included with most standard Python installations.
+# No external packages are required.
